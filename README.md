@@ -448,6 +448,7 @@ Table of Contents
    * [asana.com](https://asana.com/) — Free for private project with collaborators
    * [acunote.com](http://acunote.com/) — Free project management and SCRUM software for up to 5 team members
    * [gliffy.com](http://gliffy.com/) — Online diagrams: flowchart, UML, wireframe,... Also plugins for Jira & Confluence. 5 diagrams and 2 MB free
+   * [gleek.io](https://www.gleek.io/) — Free description-to-diagrams tool. Create an informal, UML class, object, or entity-relationship diagrams using your keyboard
    * [cacoo.com](https://cacoo.com/) — Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
    * [draw.io](https://www.draw.io/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
    * [hub.jazz.net](https://hub.jazz.net/) — IBM Bluemix's project management services. Free for public projects, free for up to 3 users for private projects
